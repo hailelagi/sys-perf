@@ -1,3 +1,5 @@
+#include <linux/sched.h>
+
 #include <iostream>
 #include "lib.h"
 

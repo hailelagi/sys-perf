@@ -1,5 +1,5 @@
-CXX := g++-14
-CXXFLAGS := -Wall -Wextra -Wpedantic -ggdb -std=c++20 -O0
+CXX := g++
+CXXFLAGS := -Wall -Wextra -Wpedantic -ggdb -std=c++17 -O0
 
 NAME ?= main
 BUILD_DIR := build
